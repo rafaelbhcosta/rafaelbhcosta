@@ -2,7 +2,7 @@
 💼 Atualmente trabalho na [BlueShift Brasil](https://blueshift.com.br/), onde sou Jr. Data & Iot Engineer <br>
 😄 Pronomes: Ele/Dele <br>
 ⚡ Hobbies: Assistir séries, Praticar Front, Cozinhar e Andar de bike. <br>
-📫 Voc~e podeme me encontrar pelo: bhcosta.rafael@gmail.com
+📫 Você podeme me encontrar pelo: bhcosta.rafael@gmail.com
 <br>
 
 #
