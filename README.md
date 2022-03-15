@@ -43,6 +43,13 @@ Estou aprendendo:
 
 #
 
+<br>
+<br>
+<div>
+    
+## Confira abaixo alguns dos meus repositórios e principais repositórios que eu acesso:
+<br>
+</div>
 <!-- <div>
 
 ![Snake animation](https://github.com/rafaelbhcosta/rafabhcosta/blob/output/github-contribution-grid-snake.svg)
