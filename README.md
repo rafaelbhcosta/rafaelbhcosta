@@ -1,7 +1,7 @@
 ## Oi eu sou o Rafael, bem vindo(a)(x) ao meu perfil!! 🖖
 💼 Atualmente trabalho na [BlueShift Brasil](https://blueshift.com.br/), onde sou Jr. Data & Iot Engineer <br>
 😄 Pronomes: Ele/Dele <br>
-⚡ Hobbies: Assistir séries, Praticar Front, Cozinhar e Andar de bike. <br>
+⚡ Hobbies: Assistir séries, praticar front-end, cozinhar e andar de bike. <br>
 📫 Você podeme me encontrar pelo: bhcosta.rafael@gmail.com
 <br>
 
