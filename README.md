@@ -1,4 +1,4 @@
-## Oi eu sou o Rafael, bem vindo(a)(x) ao meu perfil!!
+## Oi eu sou o Rafael, bem vindo(a)(x) ao meu perfil!! 🖖
 
 <div align="center">
   <a href="https://github.com/rafaelbhcosta">
