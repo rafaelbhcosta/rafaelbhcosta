@@ -1,6 +1,8 @@
 ## Oi eu sou o Rafael, bem vindo(a)(x) ao meu perfil!! 🖖
 💼 Atualmente trabalho na [BlueShift Brasil](https://blueshift.com.br/), onde sou Jr. Data & Iot Engineer <br>
-😄 Pronomes: Ele/Dele
+😄 Pronomes: Ele/Dele <br>
+⚡ Hobbies: Assistir séries, Praticar Front, Cozinhar e Andar de bike. <br>
+📫 Voc~e podeme me encontrar pelo: bhcosta.rafael@gmail.com
 <br>
 
 #
@@ -50,21 +52,13 @@ Estou aprendendo:
 ## Confira abaixo alguns dos meus repositórios e principais repositórios que eu acesso:
 <br>
 </div>
+
+
 <!-- <div>
+Projeto futuro
 
 ![Snake animation](https://github.com/rafaelbhcosta/rafabhcosta/blob/output/github-contribution-grid-snake.svg)
 
 </div> -->
 
-<!-- **rafaelbhcosta/rafaelbhcosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
