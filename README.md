@@ -47,7 +47,7 @@ Estou aprendendo:
 
 <div>
     
-  ![Snake animation](https://github.com/VinxciusRosa/VinxciusRosa/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rafaelbhcosta/rafaelbhcosta/blob/output/github-contribution-grid-snake.svg)
 
 ## Confira abaixo alguns dos meus repositórios e principais repositórios que eu acesso:
 <br>
