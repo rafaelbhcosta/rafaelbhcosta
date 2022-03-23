@@ -4,6 +4,7 @@
 😄 Pronomes: Ele/Dele. <br>
 ⚡ Hobbies: Assistir séries, praticar front-end, cozinhar e andar de bike. <br>
 📫 Você podeme me encontrar pelo: bhcosta.rafael@gmail.com <br>
+📷 Confira meu [Instagram](https://www.instagram.com/task.dev/) <br>
 💻 Acesse meu [Linkedin](https://www.linkedin.com/in/rafaelbhcosta/).
 <br>
 
