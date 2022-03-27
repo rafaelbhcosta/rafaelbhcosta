@@ -16,6 +16,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaelbhcosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbhcosta&layout=compact&langs_count=7&theme=dark"/>
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelbhcosta&theme=dark&hide_border=true" />
+  </a>
 </div>
 <br>
 <br>
@@ -57,7 +58,7 @@ Estou aprendendo:
 <div>
     
   ![Snake animation](https://github.com/rafaelbhcosta/rafaelbhcosta/blob/output/github-contribution-grid-snake.svg)
-</a>
+
 ## Confira abaixo alguns dos meus repositórios e principais repositórios que eu acesso:
 <br>
 </div>
