@@ -26,16 +26,10 @@
 
 ### Confira algumas métricas do meu repositório
   <a href="https://github.com/rafaelbhcosta">
-<<<<<<< HEAD
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaelbhcosta&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbhcosta&layout=compact&langs_count=7&theme=prussian"/>
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelbhcosta&theme=prussian&hide_border=true" />
   
-=======
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaelbhcosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbhcosta&layout=compact&langs_count=7&theme=dark"/>
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelbhcosta&theme=dark&hide_border=true" />
->>>>>>> parent of 851dbe1 (Update README.md)
   </a>
 </div>
 <br>
