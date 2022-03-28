@@ -5,8 +5,7 @@
   😄 Pronomes: Ele/Dele. <br>
   ⚡ Hobbies: Assistir séries, praticar front-end, cozinhar e andar de bike. <br>
 </div>
-<img align="right" width="35%%" alt="cover" loading="lazy" src="assets/cat.gif" title="Danilo Donato">
-#
+<img align="right" width="35%%" alt="cover" loading="lazy" src="assets/cat.gif" title="Rafael Costa">
 <br>
 💻 Confira minhas redes 
 
