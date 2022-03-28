@@ -8,7 +8,7 @@
 
 <br>
 <div align="right">
-<img style="position: fixed;" height="100em" src="assets/cat.gif" alt="gif">
+<img style="position: fixed;" height="80em" src="assets/cat.gif" alt="gif">
 </div>
 💻 Confira minhas redes 
 <div>
