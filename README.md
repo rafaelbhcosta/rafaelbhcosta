@@ -43,8 +43,8 @@
 <br>
 Atualmente tenho conhecimento de:
 <div style="display: inline_block"><br>
-    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img height="30" width="40" title="Azure Services" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+    <img height="30" width="40" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -83,7 +83,7 @@ Estou aprendendo:
 
 ## Observações finais
 <div align="justify">
-A maioria dos meu repositórios possui a licença MIT, isso quer dizer que você pode usar meus repositórios como for melhor te ajuda, para estudar, ensinar, ou até mesmo criar um conteúdo comercializavel. Apenas pesso a gentileza de caso usar algum deles que coloque o link do meu GitHub como referência bibliográfica 🙂
+A maioria dos meus repositórios possuem a licença MIT. Isso quer dizer que você  poderá usá-los da melhor forma para lhe ajudar; estudar, ensinar ou até mesmo criar um conteúdo comercializável. Apenas peço a gentileza de, no caso de usá-los, que insira o link do meu GitHub, dando os devidos créditos. 🙂
 </div>
 
 
