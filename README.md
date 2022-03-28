@@ -1,4 +1,7 @@
 ## Oi eu sou o Rafael, bem vindo(a)(x) ao meu perfil!! 🖖
+<div align="center">
+<img height="120em" src="assets/cat.gif" alt="gif">
+</div>
 🤖 Entusiasta do desenvolvimento da humanidade com Inteligência Artificial. <br>
 💼 Atualmente trabalho na [BlueShift Brasil](https://blueshift.com.br/), onde sou Jr. Data & Iot Engineer. <br>
 😄 Pronomes: Ele/Dele. <br>
@@ -24,7 +27,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaelbhcosta&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbhcosta&layout=compact&langs_count=7&theme=prussian"/>
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelbhcosta&theme=prussian&hide_border=true" />
-
+  
   </a>
 </div>
 <br>
