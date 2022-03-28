@@ -79,10 +79,11 @@ Estou aprendendo:
 <div>
     
   ![Snake animation](https://github.com/rafaelbhcosta/rafaelbhcosta/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 ## Observações finais
+<div align="justify">
 A maioria dos meu repositórios possui a licença MIT, isso quer dizer que você pode usar meus repositórios como for melhor te ajuda, para estudar, ensinar, ou até mesmo criar um conteúdo comercializavel. Apenas pesso a gentileza de caso usar algum deles que coloque o link do meu GitHub como referência bibliográfica 🙂
-<br>
 </div>
 
 
