@@ -1,10 +1,10 @@
 ## Oi eu sou o Rafael, bem vindo(a)(x) ao meu perfil!! 🖖
-<div align="left">
-  🤖 Entusiasta do desenvolvimento da humanidade com Inteligência Artificial. <br>
-  💼 Atualmente trabalho na [BlueShift Brasil](https://blueshift.com.br/), onde sou Jr. Data & Iot Engineer. <br>
-  😄 Pronomes: Ele/Dele. <br>
-  ⚡ Hobbies: Assistir séries, praticar front-end, cozinhar e andar de bike. <br>
-</div>
+
+🤖 Entusiasta do desenvolvimento da humanidade com Inteligência Artificial. <br>
+💼 Atualmente trabalho na [BlueShift Brasil](https://blueshift.com.br/), onde sou Jr. Data & Iot Engineer. <br>
+😄 Pronomes: Ele/Dele. <br>
+⚡ Hobbies: Assistir séries, praticar front-end, cozinhar e andar de bike. <br>
+
 <img align="right" width="30%" alt="cover" loading="lazy" src="assets/cat.gif" title="Rafael Costa">
 <br>
 💻 Confira minhas redes 
