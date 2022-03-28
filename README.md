@@ -19,7 +19,7 @@
 
 ### Confira algumas métricas do meu repositório
   <a href="https://github.com/rafaelbhcosta">
-  <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaelbhcosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaelbhcosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbhcosta&layout=compact&langs_count=7&theme=dark"/>
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelbhcosta&theme=dark&hide_border=true" />
   </a>
