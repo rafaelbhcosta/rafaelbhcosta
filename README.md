@@ -10,10 +10,10 @@
 💻 Confira minhas redes 
 <div>
 <a href="https://www.linkedin.com/in/rafaelbhcosta/" alt="Linkedin"> <img src="https://img.shields.io/badge/-Linkedin-1A1C26?style=for-the-badge&logo=Linkedin&logoColor=3BBFA7&link=https://www.linkedin.com/in/rafaelbhcosta/"/></a>
-<a href="https://www.instagram.com/task.dev/" alt="Instagram"> <img src="https://img.shields.io/badge/-Instagram-1A1C26?style=for-the-badge&logo=Instagram&logoColor=3BBFA7&link=https://www.instagram.com/task.dev/"/></a>
-<a href="https://discord.gg/rv6gCMt2UN" alt="Discord"> <img src="https://img.shields.io/badge/-Discord-1A1C26?style=for-the-badge&logo=Discord&logoColor=3BBFA7&link=https://discord.gg/rv6gCMt2UN"/></a> 
-<a href="https://www.youtube.com/channel/UCOraid8V8VIachUMWXbHQyQ" alt="Youtube"> <img src="https://img.shields.io/badge/-Youtube-1A1C26?style=for-the-badge&logo=Youtube&logoColor=3BBFA7&link=https://www.youtube.com/channel/UCOraid8V8VIachUMWXbHQyQ"/></a> 
-<a href="mailto:bhcosta.rafael@gmail.com" alt="Gmail"> <img src="https://img.shields.io/badge/Gmail-1A1C26?style=for-the-badge&logo=Gmail&logoColor=3BBFA7"/></a>
+<a href="https://www.instagram.com/task.dev/" alt="Instagram"><img src="https://img.shields.io/badge/-Instagram-1A1C26?style=for-the-badge&logo=Instagram&logoColor=3BBFA7&link=https://www.instagram.com/task.dev/"/></a>
+<a href="https://discord.gg/rv6gCMt2UN" alt="Discord"><img src="https://img.shields.io/badge/-Discord-1A1C26?style=for-the-badge&logo=Discord&logoColor=3BBFA7&link=https://discord.gg/rv6gCMt2UN"/></a> 
+<a href="https://www.youtube.com/channel/UCOraid8V8VIachUMWXbHQyQ" alt="Youtube"><img src="https://img.shields.io/badge/-Youtube-1A1C26?style=for-the-badge&logo=Youtube&logoColor=3BBFA7&link=https://www.youtube.com/channel/UCOraid8V8VIachUMWXbHQyQ"/></a> 
+<a href="mailto:bhcosta.rafael@gmail.com" alt="Gmail"><img src="https://img.shields.io/badge/Gmail-1A1C26?style=for-the-badge&logo=Gmail&logoColor=3BBFA7"/></a>
 
 </div>
 
