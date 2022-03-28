@@ -1,6 +1,6 @@
 ## Oi eu sou o Rafael, bem vindo(a)(x) ao meu perfil!! 🖖
-<div align="center">
-<img height="120em" src="assets/cat.gif" alt="gif">
+<div align="right">
+<img height="100em" src="assets/cat.gif" alt="gif">
 </div>
 🤖 Entusiasta do desenvolvimento da humanidade com Inteligência Artificial. <br>
 💼 Atualmente trabalho na [BlueShift Brasil](https://blueshift.com.br/), onde sou Jr. Data & Iot Engineer. <br>
