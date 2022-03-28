@@ -6,6 +6,7 @@
   ⚡ Hobbies: Assistir séries, praticar front-end, cozinhar e andar de bike. <br>
 </div>
 
+#
 <br>
 💻 Confira minhas redes 
 
