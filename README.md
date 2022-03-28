@@ -1,5 +1,6 @@
 ## Oi eu sou o Rafael, bem vindo(a)(x) ao meu perfil!! 🖖
 <img align="right" width="30%" alt="cover" loading="lazy" src="assets/cat.gif" title="Rafael Costa">
+
 🤖 Entusiasta do desenvolvimento da humanidade com Inteligência Artificial. <br>
 💼 Atualmente trabalho na [BlueShift Brasil](https://blueshift.com.br/), onde sou Jr. Data & Iot Engineer. <br>
 😄 Pronomes: Ele/Dele. <br>
