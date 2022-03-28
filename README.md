@@ -1,8 +1,11 @@
 ## Oi eu sou o Rafael, bem vindo(a)(x) ao meu perfil!! 🖖
-🤖 Entusiasta do desenvolvimento da humanidade com Inteligência Artificial. <br>
-💼 Atualmente trabalho na [BlueShift Brasil](https://blueshift.com.br/), onde sou Jr. Data & Iot Engineer. <br>
-😄 Pronomes: Ele/Dele. <br>
-⚡ Hobbies: Assistir séries, praticar front-end, cozinhar e andar de bike. <br>
+<div style="position: fixed;" align="left">
+  🤖 Entusiasta do desenvolvimento da humanidade com Inteligência Artificial. <br>
+  💼 Atualmente trabalho na [BlueShift Brasil](https://blueshift.com.br/), onde sou Jr. Data & Iot Engineer. <br>
+  😄 Pronomes: Ele/Dele. <br>
+  ⚡ Hobbies: Assistir séries, praticar front-end, cozinhar e andar de bike. <br>
+</div>
+
 <br>
 <div align="right">
 <img style="position: fixed;" height="100em" src="assets/cat.gif" alt="gif">
