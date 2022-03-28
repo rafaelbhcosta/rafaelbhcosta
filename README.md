@@ -41,7 +41,7 @@
 #
 
 <br>
-Atualmente tenho conhecimento de:
+Atualmente tenho conhecimento das seguintes linguagens e ferramentas
 <div style="display: inline_block"><br>
     <img height="30" width="40" title="Azure Services" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
     <img height="30" width="40" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -62,7 +62,7 @@ Atualmente tenho conhecimento de:
 </div>
 <br>
 <br>
-Estou aprendendo:
+Algumas ferramentas que estou aprendendo
 <div style="display: inline_block"><br>
     <img height="30" width="40" title="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img height="30" width="40" title="SASS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
