@@ -1,4 +1,4 @@
-## Oi eu sou o Rafael, bem vindo(a)(x) ao meu perfil!! 🖖
+## Oi, eu sou o Rafael, bem vindo(a)(x) ao meu repositório!! 🖖
 <img align="right" width="30%" alt="cover" loading="lazy" src="assets/cat.gif" title="Rafael Costa">
 
 🤖 Entusiasta do desenvolvimento da humanidade com Inteligência Artificial. <br>
@@ -80,7 +80,8 @@ Estou aprendendo:
     
   ![Snake animation](https://github.com/rafaelbhcosta/rafaelbhcosta/blob/output/github-contribution-grid-snake.svg)
 
-## Confira abaixo alguns dos meus repositórios e principais repositórios que eu acesso:
+## Observações finais
+A maioria dos meu repositórios possui a licença MIT, isso quer dizer que você pode usar meus repositórios como for melhor te ajuda, para estudar, ensinar, ou até mesmo criar um conteúdo comercializavel. Apenas pesso a gentileza de caso usar algum deles que coloque o link do meu GitHub como referência bibliográfica 🙂
 <br>
 </div>
 
