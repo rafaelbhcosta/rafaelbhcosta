@@ -4,9 +4,13 @@
 😄 Pronomes: Ele/Dele. <br>
 ⚡ Hobbies: Assistir séries, praticar front-end, cozinhar e andar de bike. <br>
 📫 Você podeme me encontrar pelo: bhcosta.rafael@gmail.com <br>
-📸 Confira meu [Instagram](https://www.instagram.com/task.dev/). <br>
-💻 Acesse meu [Linkedin](https://www.linkedin.com/in/rafaelbhcosta/).
 <br>
+
+<div>
+  <a href="https://www.linkedin.com/in/rafaelbhcosta/" alt="Linkedin">    <img src="https://img.shields.io/badge/-Linkedin-1A1C26?style=for-the-badge&logo=Linkedin&logoColor=3BBFA7&link=https://www.linkedin.com/in/rafaelbhcosta/"/>  </a>
+  <a href="https://www.instagram.com/task.dev/" alt="Instagram">    <img src="https://img.shields.io/badge/-Instagram-1A1C26?style=for-the-badge&logo=Instagram&logoColor=3BBFA7&link=https://www.instagram.com/task.dev/"/>  </a>
+  <a href="https://discord.gg/rv6gCMt2UN" alt="Discord">    <img src="https://img.shields.io/badge/-Discord-1A1C26?style=for-the-badge&logo=Discord&logoColor=3BBFA7&link=https://discord.gg/rv6gCMt2UN"/>      </a>
+</div>
 
 #
 
@@ -63,11 +67,5 @@ Estou aprendendo:
 <br>
 </div>
 
-
-<div>
-  <a href="https://www.linkedin.com/in/rafaelbhcosta/" alt="Linkedin">    <img src="https://img.shields.io/badge/-Linkedin-1A1C26?style=for-the-badge&logo=Linkedin&logoColor=3BBFA7&link=https://www.linkedin.com/in/rafaelbhcosta/"/>  </a>
-  <a href="https://www.instagram.com/task.dev/" alt="Instagram">    <img src="https://img.shields.io/badge/-Instagram-1A1C26?style=for-the-badge&logo=Instagram&logoColor=3BBFA7&link=https://www.instagram.com/task.dev/"/>  </a>
-  <a href="https://discord.gg/rv6gCMt2UN" alt="Discord">    <img src="https://img.shields.io/badge/-Discord-1A1C26?style=for-the-badge&logo=Discord&logoColor=3BBFA7&link=https://discord.gg/rv6gCMt2UN"/>      </a>
-</div>
 
 
