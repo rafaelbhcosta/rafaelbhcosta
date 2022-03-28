@@ -1,5 +1,5 @@
 ## Oi eu sou o Rafael, bem vindo(a)(x) ao meu perfil!! 🖖
-<div style="position: fixed;" align="left">
+<div align="left">
   🤖 Entusiasta do desenvolvimento da humanidade com Inteligência Artificial. <br>
   💼 Atualmente trabalho na [BlueShift Brasil](https://blueshift.com.br/), onde sou Jr. Data & Iot Engineer. <br>
   😄 Pronomes: Ele/Dele. <br>
@@ -7,9 +7,6 @@
 </div>
 
 <br>
-<div align="right">
-<img style="position: fixed;" height="80em" src="assets/cat.gif" alt="gif">
-</div>
 💻 Confira minhas redes 
 <div>
 <a href="https://www.linkedin.com/in/rafaelbhcosta/" alt="Linkedin"> <img src="https://img.shields.io/badge/-Linkedin-1A1C26?style=for-the-badge&logo=Linkedin&logoColor=3BBFA7&link=https://www.linkedin.com/in/rafaelbhcosta/"/></a>
@@ -34,6 +31,10 @@
   </a>
 </div>
 <br>
+
+<div align="right">
+<img src="https://acegif.com/wp-content/uploads/rain-23.gif" alt="gif">
+</div>
 
 #
 
