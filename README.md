@@ -4,7 +4,6 @@
 😄 Pronomes: Ele/Dele. <br>
 ⚡ Hobbies: Assistir séries, praticar front-end, cozinhar e andar de bike. <br>
 📫 Você podeme me encontrar pelo: bhcosta.rafael@gmail.com <br>
-<br>
 
 <div>
   <a href="https://www.linkedin.com/in/rafaelbhcosta/" alt="Linkedin">    <img src="https://img.shields.io/badge/-Linkedin-1A1C26?style=for-the-badge&logo=Linkedin&logoColor=3BBFA7&link=https://www.linkedin.com/in/rafaelbhcosta/"/>  </a>
