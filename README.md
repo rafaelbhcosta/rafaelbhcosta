@@ -29,9 +29,11 @@
 
 #
 
+<!-- Sistemas de métricas podem ser consultadas nos meus repositórios com estrela para mais estilos -->
 <div align="center">
 <br>
 
+<!-- Tomar cuidado com as cores, pode várias algumas entre os quadrados, mesmo com o mesmo tema -->
 ### Confira algumas métricas do meu repositório
   <a href="https://github.com/rafaelbhcosta">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaelbhcosta&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
