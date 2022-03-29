@@ -53,6 +53,7 @@
 
 #
 
+<!-- Para os conhecimentos optei pelos logos para ficar menos cansativo -->
 <br>
 Atualmente tenho conhecimento das seguintes linguagens e ferramentas
 <div style="display: inline_block"><br>
