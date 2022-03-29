@@ -3,7 +3,7 @@
 <!-- Quem sou eu -->
 ## Oi, eu sou o Rafael, bem vindo(a)(x) ao meu repositório!! 🖖
 
-<!-- Gif pequeno com fundo transparente -->
+<!-- Gif pequeno com fundo transparente e formas de alinhamento -->
 <img align="right" width="30%" alt="cover" loading="lazy" src="assets/cat.gif" title="Rafael Costa">
 
 <!-- Descrição pessoal -->
