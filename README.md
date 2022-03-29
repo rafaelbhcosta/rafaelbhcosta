@@ -1,7 +1,12 @@
 <!-- Inicio Cabeçalho -->
+
+<!-- Quem sou eu -->
 ## Oi, eu sou o Rafael, bem vindo(a)(x) ao meu repositório!! 🖖
+
+<!-- Gif pequeno com fundo transparente -->
 <img align="right" width="30%" alt="cover" loading="lazy" src="assets/cat.gif" title="Rafael Costa">
 
+<!-- Descrição pessoal -->
 🤖 Entusiasta do desenvolvimento da humanidade com Inteligência Artificial. <br>
 💼 Atualmente trabalho na [BlueShift Brasil](https://blueshift.com.br/), onde sou Jr. Data & Iot Engineer. <br>
 😄 Pronomes: Ele/Dele. <br>
