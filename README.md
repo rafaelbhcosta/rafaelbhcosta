@@ -102,4 +102,4 @@ Algumas ferramentas que estou aprendendo
 A maioria dos meus repositórios possuem a licença MIT. Isso quer dizer que você  poderá usá-los da melhor forma para lhe ajudar; estudar, ensinar ou até mesmo criar um conteúdo comercializável. Apenas peço a gentileza de, no caso de usá-los, que insira o link do meu GitHub, dando os devidos créditos. 🙂
 </div>
 
-<!-- Sim -->
+<!-- Sim meu readme ficou GIGANTEEEEE, mas acho que o readme tem que falar o máximo de você-->
