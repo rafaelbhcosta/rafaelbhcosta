@@ -56,9 +56,6 @@ Atualmente tenho conhecimento das seguintes linguagens e ferramentas
     <img height="30" width="40" title="GIMP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
     <img height="30" width="40" title="PyCharm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
     <img height="30" width="40" title="Devicon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" />
-
-
-
 </div>
 <br>
 <br>
