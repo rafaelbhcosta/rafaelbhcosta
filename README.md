@@ -56,6 +56,8 @@
 <!-- Para os conhecimentos optei pelos logos para ficar menos cansativo -->
 <br>
 Atualmente tenho conhecimento das seguintes linguagens e ferramentas
+
+<!-- Nem todo mundo conhece todos os logos, então criei um sistema com title, onde ao passar o mouse por cima o nome aparece -->
 <div style="display: inline_block"><br>
     <img height="30" width="40" title="Azure Services" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
     <img height="30" width="40" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
