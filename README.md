@@ -103,3 +103,5 @@ A maioria dos meus repositórios possuem a licença MIT. Isso quer dizer que voc
 </div>
 
 <!-- Sim meu readme ficou GIGANTEEEEE, mas acho que o readme tem que falar o máximo de você, optei por algo mais extenso mas que ficasse bonito -->
+
+<!-- Como eu me conheço semana que vem posso mudar todo meu readme e deixar bem pequeno, mas no momento é esse mesmo kkkk -->
