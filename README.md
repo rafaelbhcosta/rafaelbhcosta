@@ -32,7 +32,7 @@
 <br>
 
 <div align="right">
-<img loading="lazy" style="border-radius: 15px;" src="https://i.pinimg.com/originals/b5/fd/3f/b5fd3fbe984103e08b9482471484394b.gif" alt="gif">
+<img src="https://i.pinimg.com/originals/b5/fd/3f/b5fd3fbe984103e08b9482471484394b.gif" alt="gif programador em dia chuvoso">
 </div>
 
 #
