@@ -90,6 +90,7 @@ Algumas ferramentas que estou aprendendo
 
 #
 
+<!-- Clássica cobrinha do github para deixar o perfil mais descontraido -->
 <div>
 
   ![Snake animation](https://github.com/rafaelbhcosta/rafaelbhcosta/blob/output/github-contribution-grid-snake.svg)
