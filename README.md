@@ -1,3 +1,4 @@
+<!-- Inicio Cabeçalho -->
 ## Oi, eu sou o Rafael, bem vindo(a)(x) ao meu repositório!! 🖖
 <img align="right" width="30%" alt="cover" loading="lazy" src="assets/cat.gif" title="Rafael Costa">
 
