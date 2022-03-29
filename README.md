@@ -31,9 +31,9 @@
 </div>
 <br>
 
-<kbd style="border-radius: 15px;">
+<kbd>
   
-  <div style="border-radius: 15px;" align="center">
+  <div align="center">
   <img src="https://i.pinimg.com/originals/b5/fd/3f/b5fd3fbe984103e08b9482471484394b.gif" alt="gif programador em dia chuvoso">
   </div>
 </kbd>
