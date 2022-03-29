@@ -96,6 +96,7 @@ Algumas ferramentas que estou aprendendo
   ![Snake animation](https://github.com/rafaelbhcosta/rafaelbhcosta/blob/output/github-contribution-grid-snake.svg)
 </div>
 
+<!-- Observação final para que fique claro o como gostaia que fosse o uso dos meus repositórios -->
 ## Observações finais
 <div align="justify">
 A maioria dos meus repositórios possuem a licença MIT. Isso quer dizer que você  poderá usá-los da melhor forma para lhe ajudar; estudar, ensinar ou até mesmo criar um conteúdo comercializável. Apenas peço a gentileza de, no caso de usá-los, que insira o link do meu GitHub, dando os devidos créditos. 🙂
