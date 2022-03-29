@@ -43,7 +43,9 @@
 </div>
 <br>
 
+<!-- A tag kbd cria uma moldura em volta da imagem -->
 <kbd>
+  <!--  -->
   <div align="center">
   <img src="https://i.pinimg.com/originals/b5/fd/3f/b5fd3fbe984103e08b9482471484394b.gif" alt="gif programador em dia chuvoso">
   </div>
