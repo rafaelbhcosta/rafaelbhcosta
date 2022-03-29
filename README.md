@@ -8,7 +8,6 @@
 
 <br>
 💻 Confira minhas redes 
-
 <div>
 <br>
 <a href="https://www.linkedin.com/in/rafaelbhcosta/" alt="Linkedin"> <img src="https://img.shields.io/badge/-Linkedin-1A1C26?style=for-the-badge&logo=Linkedin&logoColor=3BBFA7&link=https://www.linkedin.com/in/rafaelbhcosta/"/></a>
@@ -16,7 +15,6 @@
 <a href="https://discord.gg/rv6gCMt2UN" alt="Discord"><img src="https://img.shields.io/badge/-Discord-1A1C26?style=for-the-badge&logo=Discord&logoColor=3BBFA7&link=https://discord.gg/rv6gCMt2UN"/></a> 
 <a href="https://www.youtube.com/channel/UCOraid8V8VIachUMWXbHQyQ" alt="Youtube"><img src="https://img.shields.io/badge/-Youtube-1A1C26?style=for-the-badge&logo=Youtube&logoColor=3BBFA7&link=https://www.youtube.com/channel/UCOraid8V8VIachUMWXbHQyQ"/></a> 
 <a href="mailto:bhcosta.rafael@gmail.com" alt="Gmail"><img src="https://img.shields.io/badge/Gmail-1A1C26?style=for-the-badge&logo=Gmail&logoColor=3BBFA7"/></a>
-
 </div>
 
 #
@@ -29,7 +27,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaelbhcosta&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbhcosta&layout=compact&langs_count=7&theme=prussian"/>
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelbhcosta&theme=prussian&hide_border=true" />
-  
   </a>
 </div>
 <br>
@@ -68,13 +65,12 @@ Algumas ferramentas que estou aprendendo
     <img height="30" width="40" title="Jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
     <img height="30" width="40" title="AWS Services" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
     <img height="30" width="40" title="GitLab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
-
 </div>
 
 #
 
 <div>
-    
+
   ![Snake animation](https://github.com/rafaelbhcosta/rafaelbhcosta/blob/output/github-contribution-grid-snake.svg)
 </div>
 
