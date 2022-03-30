@@ -76,7 +76,7 @@ Atualmente tenho conhecimento das seguintes linguagens e ferramentas
 <br>
 <br>
 
-<!-- Decidi por o conteúdo em faze de aprendizado a parte, apenas para fins esteticos  -->
+<!-- Decidi por o conteúdo em aprendizado a parte, apenas para fins esteticos  -->
 Algumas ferramentas que estou aprendendo
 <div style="display: inline_block"><br>
     <img height="30" width="40" title="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
