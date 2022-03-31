@@ -95,6 +95,7 @@ Algumas ferramentas que estou aprendendo
     <img height="30" width="40" title="VUE" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
     <img height="30" width="40" title="GoogleCloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
     <img height="30" width="40" title="Pytorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+    <img height="30" width="40" title="SalesForce" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" />
 
 </div>
 
