@@ -74,6 +74,9 @@ Atualmente tenho conhecimento das seguintes linguagens e ferramentas
     <img height="30" width="40" title="Devicon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" />
     <img height="30" width="40" title="VScode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     <img height="30" width="40" title="Anaconda" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
+    <img height="30" width="40" title="Windowns Power Shell" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+    <img height="30" width="40" title="Canva" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+    
 
 </div>
 <br>
