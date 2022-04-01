@@ -61,7 +61,7 @@
 ### Conhecimentos que possuo
 </div>
 
-#### * Ferramentas 
+* ####  Ferramentas 
 <!-- Nem todo mundo conhece todos os logos, então criei um sistema com title, onde ao passar o mouse por cima o nome aparece -->
 <div style="display: inline_block"><br>
     <img height="30" width="40" title="Azure Services" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
