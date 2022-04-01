@@ -90,6 +90,7 @@
 <br>
 <br>
 
+<!-- Decidi por o conteúdo em aprendizado a parte, apenas para fins esteticos  -->
 <div align="center">
 
 ### Conhecimentos que estou Adquirindo
@@ -120,8 +121,6 @@
 </div>
 <br>
 <br>
-
-<!-- Decidi por o conteúdo em aprendizado a parte, apenas para fins esteticos  -->
 
 #
 
