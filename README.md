@@ -52,10 +52,9 @@
 </kbd>
 
 #
-
-<!-- Para os conhecimentos optei pelos logos para ficar menos cansativo -->
 <br>
-
+<!-- Para os conhecimentos optei pelos logos para ficar menos cansativo -->
+<!-- Nem todo mundo conhece todos os logos, então criei um sistema com title, onde ao passar o mouse por cima o nome aparece -->
 <div align="center">
 
 ### Conhecimentos que possuo
@@ -70,15 +69,12 @@
     <img height="30" width="40" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img height="30" width="40" title="Lua" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" />
 </div>
+<br>
+<br>
 
 * ####  Ferramentas de Desenvolvimento e Programação 
 
 <div style="display: inline_block">
-
-</div>
-
-<!-- Nem todo mundo conhece todos os logos, então criei um sistema com title, onde ao passar o mouse por cima o nome aparece -->
-<div style="display: inline_block"><br>
     <img height="30" width="40" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <img height="30" width="40" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
     <img height="30" width="40" title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
@@ -90,8 +86,6 @@
     <img height="30" width="40" title="Anaconda" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
     <img height="30" width="40" title="Windowns Power Shell" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
     <img height="30" width="40" title="Canva" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-    
-
 </div>
 <br>
 <br>
