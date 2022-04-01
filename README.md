@@ -63,13 +63,14 @@
 
 * ####  Linguagens de Desenvolvimento e programação 
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
     <img height="30" width="40" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img height="30" width="40" title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img height="30" width="40" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img height="30" width="40" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img height="30" width="40" title="Lua" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" />
 </div>
+
 <!-- Nem todo mundo conhece todos os logos, então criei um sistema com title, onde ao passar o mouse por cima o nome aparece -->
 <div style="display: inline_block"><br>
     <img height="30" width="40" title="Azure Services" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
