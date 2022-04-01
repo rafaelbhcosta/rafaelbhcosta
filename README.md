@@ -55,7 +55,11 @@
 
 <!-- Para os conhecimentos optei pelos logos para ficar menos cansativo -->
 <br>
-Atualmente tenho conhecimento das seguintes linguagens e ferramentas
+
+<div align="center">
+
+### Conhecimentos que possuo
+</div>
 
 <!-- Nem todo mundo conhece todos os logos, então criei um sistema com title, onde ao passar o mouse por cima o nome aparece -->
 <div style="display: inline_block"><br>
