@@ -70,7 +70,6 @@
     <img height="30" width="40" title="Lua" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" />
 </div>
 <br>
-<br>
 
 * ####  Ferramentas de Desenvolvimento e Programação 
 
@@ -106,7 +105,6 @@
     <img height="30" width="40" title="VUE" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
     <img height="30" width="40" title="Pytorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
 </div>
-<br>
 <br>
 
 * ####  Ferramentas de Desenvolvimento e Programação 
