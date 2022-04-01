@@ -74,6 +74,7 @@
 * ####  Ferramentas de Desenvolvimento e Programação 
 
 <div style="display: inline_block">
+    <img height="30" width="40" title="Azure Services" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
     <img height="30" width="40" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <img height="30" width="40" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
     <img height="30" width="40" title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
