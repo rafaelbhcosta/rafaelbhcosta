@@ -57,7 +57,7 @@
 <!-- Nem todo mundo conhece todos os logos, então criei um sistema com title, onde ao passar o mouse por cima o nome aparece -->
 <div align="center">
 
-### Conhecimentos que possuo
+### Conhecimentos que Possuo
 </div>
 
 * ####  Linguagens de Desenvolvimento e Programação 
@@ -86,6 +86,27 @@
     <img height="30" width="40" title="Anaconda" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
     <img height="30" width="40" title="Windowns Power Shell" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
     <img height="30" width="40" title="Canva" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+</div>
+<br>
+<br>
+
+<div align="center">
+
+### Conhecimentos que estou Adquirindo
+</div>
+
+* ####  Linguagens de Desenvolvimento e Programação 
+
+<div style="display: inline_block">
+    
+</div>
+<br>
+<br>
+
+* ####  Ferramentas de Desenvolvimento e Programação 
+
+<div style="display: inline_block">
+    
 </div>
 <br>
 <br>
