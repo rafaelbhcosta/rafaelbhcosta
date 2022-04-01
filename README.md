@@ -103,6 +103,7 @@
     <img height="30" width="40" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
     <img height="30" width="40" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img height="30" width="40" title="VUE" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+    <img height="30" width="40" title="Pytorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
 </div>
 <br>
 <br>
@@ -121,12 +122,6 @@
 <br>
 
 <!-- Decidi por o conteúdo em aprendizado a parte, apenas para fins esteticos  -->
-Algumas ferramentas que estou aprendendo
-<div style="display: inline_block"><br>
-    <img height="30" width="40" title="Pytorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-
-
-</div>
 
 #
 
