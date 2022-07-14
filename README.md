@@ -68,9 +68,11 @@
     <img height="30" width="40" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img height="30" width="40" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img height="30" width="40" title="Lua" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" />
+    <img height="30" width="40" title="Lua" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 </div>
 <br>
 
+          
 * ####  Ferramentas de Desenvolvimento e Programação 
 
 <div style="display: inline_block">
