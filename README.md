@@ -8,7 +8,7 @@
 
 <!-- Descrição pessoal -->
 🤖 Entusiasta do desenvolvimento da humanidade com Inteligência Artificial. <br>
-💼 Atualmente trabalho na [BlueShift Brasil](https://blueshift.com.br/), onde sou Jr. Data & Iot Engineer. <br>
+💼 Atualmente trabalho na [BlueShift Brasil](https://blueshift.com.br/), onde sou Data & Iot Engineer. <br>
 😄 Pronomes: Ele/Dele. <br>
 ⚡ Hobbies: Assistir séries, praticar front-end, cozinhar e andar de bike. <br>
 <!-- Fim do cabeçalho -->
